@@ -16,9 +16,9 @@ import micro from "../assets/img/infrastructure.png";
 
 export const DataIcon = [
   html,
+  css,
   javascript,
   java,
-  css,
   react,
   spring,
   talwind,
