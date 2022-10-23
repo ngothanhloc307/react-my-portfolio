@@ -4,6 +4,7 @@ import projImg1 from "../assets/img/project-img1.JPG";
 import projImg2 from "../assets/img/project-img2.JPG";
 import projImg3 from "../assets/img/project-img3.JPG";
 import projImg4 from "../assets/img/project-img4.JPG";
+import projImg5 from "../assets/img/project-img5.JPG";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -33,6 +34,12 @@ function Project() {
       description: "Food Ecommerce",
       imgUrl: projImg4,
       link: "https://food-app-react-tailwind-css-demo.netlify.app",
+    },
+    {
+      title: "Food Order and Fire Base",
+      description: "Food Ecommerce",
+      imgUrl: projImg5,
+      link: "https://food-order-web-ngoloc.netlify.app/",
     },
   ];
 

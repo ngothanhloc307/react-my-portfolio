@@ -149,7 +149,7 @@ function Skills() {
               <div className="item-flag">
                 <div>
                   <img src={DataIcon[13]} alt="us" />
-                  <p>High Intermediate</p>
+                  <p>Intermediate</p>
                 </div>
                 <div>
                   <img src={DataIcon[14]} alt="jp" />
